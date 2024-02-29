@@ -31,7 +31,7 @@ fun AppbarView(
                     )
                 }
             }
-
+ 
         } else{
             null
         }
